@@ -4,7 +4,8 @@
 -------------------------------------------
 
 ##CONTENTS:
- - Package-Diagram.pdf: xplanations Graphical representation and explanation of implementations and what they convey. 
+
+ - Package-Diagram.pdf: Graphical representation and explanation of implementations and what they convey. 
  
  - Source Code: Contains all source and header files necessary for the program to function.
 
