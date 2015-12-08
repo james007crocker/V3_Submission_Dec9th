@@ -5,6 +5,8 @@
 
 ##CONTENTS:
 
+ - Code-Inspection-Final.pdf: Assisting in the inspection of object-oriented design
+ 
  - LessonsLearnt.doxc: Description of considerations during the team project and discussion of merits over documenting system implementation
 
  - Package-Diagram.pdf: Graphical representation and explanation of implementations and what they convey. 
