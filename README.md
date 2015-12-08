@@ -18,5 +18,5 @@ Build Instructions:
   
 Notes:
  - Built on a Windows 10 Machine, confirmed as working for Windows 7 and Windows 8
- - Note: Negative dollar values may be displayed when using the grants ".csv" files. This is due to the test files containing dollar amounts that exceed the maximum value that an integer data type can hold. Since a C++ integer can hold a maximum value of $2^31 = $2.15 billion, and it is unexpected that anyone will receive a grant greater than $2.15 billion, this issue was left unaddressed.
+ - Note: 
 
