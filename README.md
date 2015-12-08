@@ -5,23 +5,21 @@
 
 ##CONTENTS:
 
- - Code-Inspection-Final.pdf: Assisting in the inspection of object-oriented design
- 
- - LessonsLearnt.doxc: Description of considerations during the team project and discussion of merits over documenting system implementation
+ - FinalReport.pdf: Report containing all written deliverables. Note: Refer to the Inspections folder for the original inspections (not the reconciled version).
 
- - Package-Diagram.pdf: Graphical representation and explanation of implementations and what they convey. 
+ - Inspections: Folder containing the original independent inspections completed prior to making a reconciled version.
  
- - Source Code: Contains all source and header files necessary for the program to function.
+ - SourceCode: Folder containing all ".cpp" and ".h" files used to complete the project.
 
- - Executable: Contains executable to run application.
+ - Grapefruit.exe: Application built as an executable file.
 
 -------------------------------------------
 
 ##EXECUTABLE:
 Build Instructions:
-  Simply unzip the folder, open the 'Executable' folder and navigate to the "release" folder. Double click the executable 'grapefuit_exe' and the program will begin running. 
+  Simply open the submission folder and double click the "Grapefruit.exe". The application will begin running.
   
 Notes:
- - Built on a Windows 10 Machine, confirmed as working for Windows 7 and Windows 8
- - Note: 
+ - Built on a Windows 10 Machine with a 32bit compiler. Confirmed as working for Windows 7 and Windows 8
+
 
